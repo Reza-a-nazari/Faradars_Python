@@ -1,0 +1,11 @@
+- For knowing the Python version:
+python --version
+- or
+python -V
+
+===================================
+
+- Install IPython:
+pip install ipython
+
+- IPython: Interactive Python shell (not an IDE)
