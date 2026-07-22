@@ -8,4 +8,3 @@ python -V
 - Install IPython:
 pip install ipython
 
-- IPython: Interactive Python shell (not an IDE)
