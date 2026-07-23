@@ -14,7 +14,7 @@
 # if .... :
 #   if ... :
 
-#Nested if for And:
+#Nested if for Or:
 
 # if ... :
     # print("OK")
