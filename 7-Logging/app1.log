@@ -1,0 +1,5 @@
+DEBUG -- 2026-07-29  14-55-41 -- 1.py:23 -- This is a debug10 level log.
+INFO -- 2026-07-29  14-55-41 -- 1.py:24 -- This is a info 20 level log.
+WARNING -- 2026-07-29  14-55-41 -- 1.py:25 -- This is a warning 30 level log.
+ERROR -- 2026-07-29  14-55-41 -- 1.py:26 -- This is a error 40 level log.
+CRITICAL -- 2026-07-29  14-55-41 -- 1.py:27 -- This is a critical 50 level log.
